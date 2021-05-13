@@ -1,0 +1,8 @@
+Aquest repositori està creat amb la única finalitat de facilitar l'accès als programes i esquemàtics als professors responsables de l'assignatura, en cap cas es
+permet utilitzar el mateix amb cap finalitat no descrita en aquest document.
+
+Aquest repositori consta de 4 arxius:
+-Esquematic.png: Versió en imatge de l'esquema elèctric utilitzat per el treball.
+-Esquematic.sch: Versió en format eagle de l'esquema elèctric utilitzar per el treball.
+-Programa_AD_instru.ino: Programa principal d'arduino utilitzat per el treball.
+-Versió prova PWM.ino: Programa utilitzat per provar la variant utilitzant modulació PWM.
